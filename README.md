@@ -1,6 +1,6 @@
 # STM32CubeWL CMSIS Device MCU Component
 
-![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/cmsis-device-wl.svg?color=brightgreen)
+![tag](https://img.shields.io/badge/tag-v1.4.0-brightgreen.svg)
 
 ## Overview of the STM32Cube MCU offer on GitHub
 
